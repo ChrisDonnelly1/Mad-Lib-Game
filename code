@@ -1,0 +1,20 @@
+adjective = input (" enter a adjective: ")
+adjective1 = input (" enter another adjective: ")
+bird = input (" enter a type of bird: ")
+room = input ("enter a room in a house: ")
+verb_past_tense = input ("enter a verb in past tense: ")
+verb = input (" enter a verb: ")
+relatives_name = input ("enter a relatives name: ")
+noun = input ("enter a noun: ")
+liquid = input ("enter a liquid: ")
+verbendinging = input ("enter a verb ending in -ing: ")
+part_of_the_body = input ("enter part of the body: ")
+plural_noun = input ("enter plural noun: ")
+verbendinging1 = input ("enter a verb ending in -ing ")
+noun1 = input ("enter a noun: ")
+
+print ("it was a " + adjective, ",cold November day. I woke up to the " + adjective1, "smell of " + bird,
+       "roasting in the " + room, "downstairs. I " + verb_past_tense, " down the stairs to see if I could help " + verb,
+       "the dinner. My mum said, see if " + relatives_name, " needs a fresh " + noun,"." "So I carried a tray of glasses full of " + liquid,
+"into the " + verbendinging1, "room." "When I got there, I couldnt believe my " + part_of_the_body,"!" "there were" + plural_noun + verbendinging1,
+"on the " + noun1, "!",)
