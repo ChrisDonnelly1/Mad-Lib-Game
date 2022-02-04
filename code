@@ -18,3 +18,7 @@ print ("it was a " + adjective, ",cold November day. I woke up to the " + adject
        "the dinner. My mum said, see if " + relatives_name, " needs a fresh " + noun,"." "So I carried a tray of glasses full of " + liquid,
 "into the " + verbendinging1, "room." "When I got there, I couldnt believe my " + part_of_the_body,"!" "there were" + plural_noun + verbendinging1,
 "on the " + noun1, "!",)
+
+# any tips on how i can tidy things up or add anything for a bit of falre?
+# only issue I came across when coding this was when a asking was input on 2 same lines of code ,i.e like lines 1 + 2. both are asking user to input adjectives but, 
+# without me putting adjective1, how would the code know to input the second line instead of the first if you know what a mean. Is there a way to fix this so the user doesent see adjective1 etc?
